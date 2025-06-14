@@ -14,7 +14,7 @@ Atualmente, estou estudando e desenvolvendo projetos com as seguintes tecnologia
 ---
 
 📫 **Entre em contato comigo:**  
-[![Email](https://img.shields.io/badge/-gabriel@email.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielrwalt@email.com) 
+[![Email](https://img.shields.io/badge/-gabrielrwalt@email.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielrwalt@email.com) 
 
 💡 Fique à vontade para explorar meus repositórios, dar sugestões ou só dar uma passada! 😊  
 Vamos evoluir juntos nessa jornada!
