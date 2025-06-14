@@ -25,9 +25,9 @@ Me chamo **Gabriel** e estou começando minha caminhada na programação! 🚀
 
 ## 🚀 Objetivos
 
-![Learning](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge)
-![Motivated](https://img.shields.io/badge/Motivation-High-blue?style=for-the-badge)
-![Growth](https://img.shields.io/badge/Mindset-Growth-orange?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Status-Aprendendo-brightgreen?style=for-the-badge)
+![Motivated](https://img.shields.io/badge/Motivação-Alta-blue?style=for-the-badge)
+![Growth](https://img.shields.io/badge/Mindset%20de-Crescimento-orange?style=for-the-badge)
 
 ---
 
