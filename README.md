@@ -31,6 +31,6 @@ Me chamo **Gabriel** e estou começando minha caminhada na programação! 🚀
 
 ---
 
-💼 **"A jornada de mil milhas começa com um único passo"** - Lao Tzu
+💼 **"A jornada começa com um único passo"** - Lao Tzu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=szhyrka&color=brightgreen&style=for-the-badge)
