@@ -13,7 +13,7 @@ Estou estudando e praticando as seguintes ferramentas e plataformas:
 - **ArgoCD** — GitOps para deploy contínuo em Kubernetes
 
 ### 📊 Monitoramento e Observabilidade
-- **Zabbix** — monitoramento de infraestrutura — Foco atual
+- **Zabbix** — monitoramento de infraestrutura
 - **Grafana** — dashboards e visualização de métricas
 
 ### ☁️ Cloud
@@ -27,6 +27,9 @@ Estou estudando e praticando as seguintes ferramentas e plataformas:
 ### 🏗️ Infraestrutura como Código (IaC)
 - **Terraform**
 
+### 📨 Mensageria e Streaming de Dados
+- **Apache Kafka** — processamento de eventos e streaming distribuído
+
 ## 🛠️ Tecnologias
 
 <p align="left">
@@ -39,6 +42,7 @@ Estou estudando e praticando as seguintes ferramentas e plataformas:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 > 📚 **Em constante evolução:** além das tecnologias listadas acima, estou sempre explorando novas ferramentas e conceitos do universo DevOps. Este README será atualizado conforme novas tecnologias forem incorporadas aos meus estudos.
@@ -50,4 +54,5 @@ Estou documentando meu progresso e projetos práticos à medida que evoluo nessa
 Sinta-se à vontade para acompanhar meus repositórios e ver a evolução dos estudos! 🚧
 
 ---
+
 ⭐ *Este README será atualizado conforme eu avançar nos estudos e projetos.*
